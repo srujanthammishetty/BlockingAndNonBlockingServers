@@ -1,4 +1,4 @@
-# BlockingAndNonBlockingServers
+# Blocking And Non-Blocking Server Implementation in Java
 This project gives overview of blocking server and non-blocking server implementation in java.
 
 # Blocking Server 
